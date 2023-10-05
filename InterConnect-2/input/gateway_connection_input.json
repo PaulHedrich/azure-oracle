@@ -1,7 +1,7 @@
 {
-    "resource_group_name": "test-resourcegroup",
+    "resource_group_name": "VCN_Hub-Spoke_Bastion_VPNGW",
     "deployment_location": "East US2",
-    "express_route_name": "test-resourcegroup-Az2OCI-ER-Circuit",
+    "express_route_name": "To_OCI_Support",
     "vnet_name": "azure-oci-test-vnet", 
     "vnet_cidr": "192.168.32.0/22",
     "GatewaySubnet_cidr": "192.168.34.128/25",
